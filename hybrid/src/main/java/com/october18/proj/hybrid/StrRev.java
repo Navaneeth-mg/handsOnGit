@@ -18,7 +18,7 @@ public class StrRev {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String str = "abcd";
+		String str = "xycadz";
 		
 		char[] ch = str.toCharArray();
 		//System.out.println(ch.length);
